@@ -1,3 +1,7 @@
 body{
     background-color: rgb(224, 203, 243);
 }
+
+.nav-link:hover{
+   background-color: brown;
+}
